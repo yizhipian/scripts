@@ -1,8 +1,8 @@
 #!/bin/bash
-export UUID=${UUID:-'1f685446-c968-49f0-9fe1-25847585b0b7'}
+export UUID=${UUID:-'7f5fd25e-b3d8-41fd-b5b9-e93fa10e819d'}
 export NEZHA_SERVER=${NEZHA_SERVER:-'nzha.serv00.net'} 
 export NEZHA_PORT=${NEZHA_PORT:-'59577'}     
-export NEZHA_KEY=${NEZHA_KEY:-'Ukdt0rBDHkV3W4kRz6'}  
+export NEZHA_KEY=${NEZHA_KEY:-'5jcNFWK2jdnHIXSJUU'}  
 export FILE_PATH=${FILE_PATH:-'./log'}
 export SNI=${SNI:-'www.yahoo.com'}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-2024}}"  # 必填开放的端口
